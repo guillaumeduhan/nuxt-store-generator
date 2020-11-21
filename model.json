@@ -1,0 +1,12 @@
+{
+ "data": {
+  "files": {
+   "types": [
+    "actions",
+    "getters",
+    "state",
+    "mutations"
+   ]
+  }
+ }
+}

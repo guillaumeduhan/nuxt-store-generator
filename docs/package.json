@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-store-generator-doc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "Guillaume Duhan",
+    "email": ""
+  },
+  "repository": "/nuxt-store-generator-doc",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "@dovyp/vuepress-plugin-clipboard-copy": "^1.0.0-alpha.7"
+  }
+}

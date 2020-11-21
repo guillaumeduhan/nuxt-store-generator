@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-store-generator",
+  "version": "1.1.0",
+  "author": "Guillaume Duhan",
+  "license": "MIT",
+  "description": "Generate your store for Nuxt/Vuex as module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nuxt-store": "./index.js"
+  },
+  "keywords": [
+    "Nuxt",
+    "Vuex",
+    "Store"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
